@@ -6328,14 +6328,6 @@ figcaption {
   justify-self: start;
 }
 
-#w-node-_5bf3c3a5-ecf7-5c76-b8a8-4c9ec65a5356-6da21bc2, #w-node-_5bf3c3a5-ecf7-5c76-b8a8-4c9ec65a5359-6da21bc2 {
-  grid-area: span 1 / span 1 / span 1 / span 1;
-}
-
-#w-node-_5bf3c3a5-ecf7-5c76-b8a8-4c9ec65a53d1-6da21bc2 {
-  align-self: auto;
-}
-
 @media screen and (max-width: 991px) {
   #w-node-b29b34b9-c983-8acd-3f26-1aa676e49e0c-6da21b2a {
     grid-column: span 2 / span 2;
