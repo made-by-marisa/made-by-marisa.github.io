@@ -1,3 +1,3 @@
-# Made by Marisa website.
+# Made by Marisa Website
 
 Exported from webflow.
